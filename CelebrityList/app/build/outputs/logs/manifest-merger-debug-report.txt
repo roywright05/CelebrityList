@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/b25bc0ffa4a24dd16293228a222a07fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/9a4b18e17a0863cce4aa47aac870181c/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/86cdada188b45b69b4f0ffe035243c82/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d459570c6146f6c7fb0e9c76479ec4f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d228ff27a5592a1147aab83e283fe4c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/3960f8d2b46fc6f56bc814e9f51ae00d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/7904c43963ed29fc6a27863fe6ecdc5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/19d048d2428af0e264ad5284787ad646/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/dc63b98d7af01ed6c3d7622b264720e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/69ecd60ecf4aa636ef426aaf2d2c3438/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/72358f00332ec1f462844dc0f235282f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/f9db1947100725fbbf1fa69d0211e5d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/0f985fafe1a7607f7e59ba763f47b28c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/20b9a375d7690e5544be0ea7baa0ffc9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/ad3bfeef29fff9f915a54acfa82bf929/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d4d167434e0b6f1a19d1e0099e72e4c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/4fb5104eb23befef8c7e1e1cf578de7e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/797de21fb1a99637c14fc87065bc8efb/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d75b4a0471a7eff4bd76832793fffca1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/9c5962a5941dde5b3b22fdb423cc4919/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/4f2556fe8ffa2b07bae76c8088fd192c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/5aa0e91d3a31a6e2cef16851cf83b0f1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/7a2a41377abefa1a4ea5a1756aebb021/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/5993c81b6ddd8d65a1ea5e00d5185bda/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d73caff5693b262d280495be4f2cadfc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/834a68b9aeae57fbdce46464039be6d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/28714ef6e5a5f3f62ff015fc8ac94466/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/55acf8ed38870d55041c67d556ca7dfd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/9a4b18e17a0863cce4aa47aac870181c/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/9a4b18e17a0863cce4aa47aac870181c/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/4fb5104eb23befef8c7e1e1cf578de7e/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/4fb5104eb23befef8c7e1e1cf578de7e/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/797de21fb1a99637c14fc87065bc8efb/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/797de21fb1a99637c14fc87065bc8efb/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/4fb5104eb23befef8c7e1e1cf578de7e/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.celebritylist.MainActivity
+ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/b25bc0ffa4a24dd16293228a222a07fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/b25bc0ffa4a24dd16293228a222a07fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/9a4b18e17a0863cce4aa47aac870181c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/9a4b18e17a0863cce4aa47aac870181c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/86cdada188b45b69b4f0ffe035243c82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/86cdada188b45b69b4f0ffe035243c82/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d459570c6146f6c7fb0e9c76479ec4f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d459570c6146f6c7fb0e9c76479ec4f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d228ff27a5592a1147aab83e283fe4c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d228ff27a5592a1147aab83e283fe4c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/3960f8d2b46fc6f56bc814e9f51ae00d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/3960f8d2b46fc6f56bc814e9f51ae00d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/7904c43963ed29fc6a27863fe6ecdc5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/7904c43963ed29fc6a27863fe6ecdc5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/19d048d2428af0e264ad5284787ad646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/19d048d2428af0e264ad5284787ad646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/dc63b98d7af01ed6c3d7622b264720e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/dc63b98d7af01ed6c3d7622b264720e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/69ecd60ecf4aa636ef426aaf2d2c3438/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/69ecd60ecf4aa636ef426aaf2d2c3438/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/72358f00332ec1f462844dc0f235282f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/72358f00332ec1f462844dc0f235282f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/f9db1947100725fbbf1fa69d0211e5d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/f9db1947100725fbbf1fa69d0211e5d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/0f985fafe1a7607f7e59ba763f47b28c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/0f985fafe1a7607f7e59ba763f47b28c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/20b9a375d7690e5544be0ea7baa0ffc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/20b9a375d7690e5544be0ea7baa0ffc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/ad3bfeef29fff9f915a54acfa82bf929/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/ad3bfeef29fff9f915a54acfa82bf929/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d4d167434e0b6f1a19d1e0099e72e4c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d4d167434e0b6f1a19d1e0099e72e4c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/4fb5104eb23befef8c7e1e1cf578de7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/4fb5104eb23befef8c7e1e1cf578de7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/797de21fb1a99637c14fc87065bc8efb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/797de21fb1a99637c14fc87065bc8efb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d75b4a0471a7eff4bd76832793fffca1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d75b4a0471a7eff4bd76832793fffca1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/9c5962a5941dde5b3b22fdb423cc4919/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/9c5962a5941dde5b3b22fdb423cc4919/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/4f2556fe8ffa2b07bae76c8088fd192c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/4f2556fe8ffa2b07bae76c8088fd192c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/5aa0e91d3a31a6e2cef16851cf83b0f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/5aa0e91d3a31a6e2cef16851cf83b0f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/7a2a41377abefa1a4ea5a1756aebb021/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/7a2a41377abefa1a4ea5a1756aebb021/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/5993c81b6ddd8d65a1ea5e00d5185bda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/5993c81b6ddd8d65a1ea5e00d5185bda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d73caff5693b262d280495be4f2cadfc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/d73caff5693b262d280495be4f2cadfc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/834a68b9aeae57fbdce46464039be6d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/834a68b9aeae57fbdce46464039be6d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/28714ef6e5a5f3f62ff015fc8ac94466/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/28714ef6e5a5f3f62ff015fc8ac94466/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/55acf8ed38870d55041c67d556ca7dfd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mrwright05/.gradle/caches/transforms-2/files-2.1/55acf8ed38870d55041c67d556ca7dfd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mrwright05/Documents/Mobile Apps Company/Week3/CelebrityList/app/src/main/AndroidManifest.xml
