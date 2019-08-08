@@ -7,12 +7,43 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/tvSharedPrefDisplay"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/etUserInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Please Enter Value to Store"
+        app:layout_constraintTop_toBottomOf="@+id/tvSharedPrefDisplay"/>
+
+    <Button
+        android:id="@+id/btnStoreValueToPref"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Store Value"
+        android:onClick="onClick"
+        app:layout_constraintTop_toBottomOf="@+id/etUserInput"/>
+
+    <Button
+        android:id="@+id/btnInsertCelebs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Insert Celebrity"
+        android:onClick="onClick"
+        app:layout_constraintTop_toBottomOf="@+id/btnStoreValueToPref"/>
+
+    <Button
+        android:id="@+id/btnViewAllCars"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View All Cars"
+        android:onClick="onClick"
+        app:layout_constraintTop_toBottomOf="@+id/btnInsertCelebs"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

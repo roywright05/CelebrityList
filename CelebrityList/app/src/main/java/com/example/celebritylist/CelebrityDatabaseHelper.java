@@ -122,4 +122,6 @@ public class CelebrityDatabaseHelper extends SQLiteOpenHelper {
 
     }
 
+    public void deleteCelebrity(String lName) {
+    }
 }
